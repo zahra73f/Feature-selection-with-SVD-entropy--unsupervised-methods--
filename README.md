@@ -14,3 +14,13 @@ All the solutions are designed base on the algorithms as explained in [Feature s
 ## Results
 All results (indexes of selected features in different size-0.1,0.2,0.3,0.4,0.5 of all features-) are presented in **Result** folder.
 for achieving accuracy with the selected features run the python code accuracy.py that is located in Result folder.
+results for each dataset based on 30 percent are as follow:
+<div align="center">
+  <img src="./plots/Figure 2021-05-14 043717.png" width="50%">
+  <img src="./plots/Figure 2021-05-14 043751.png" width="50%">
+  <img src="./plots/Figure 2021-05-14 043810.png" width="50%">
+  
+  
+  
+  
+</div>
